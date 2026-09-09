@@ -58,5 +58,3 @@ Welcome to the OctoAcme project management documentation. These guides standardi
 To propose updates or new content to these process documents, please use the [Add Content to Project Management Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) issue template.
 
 ## Questions?
-
-If you have questions about these processes or need clarification, please reach out to your Project Manager or Product Lead.
